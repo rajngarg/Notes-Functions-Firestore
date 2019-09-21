@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "notes-api-eb2cf",
+    "staging": "notes-api-eb2cf"
+  }
+}
